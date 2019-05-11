@@ -8,12 +8,12 @@
 <distributionManagement>
    <repository>
       <id>weekend</id>
-        <url>http://ec2-3-0-95-55.ap-southeast-1.compute.amazonaws.com:8086/nexus/content/repositories/1/</url>
+      <url>http://ec2-3-0-95-55.ap-southeast-1.compute.amazonaws.com:8086/nexus/content/repositories/1/</url>
    </repository>
 </distributionManagement>
 <distributionManagement>
    <repository>
       <id>weekend</id>
-        <url>http://ec2-3-0-95-55.ap-southeast-1.compute.amazonaws.com:8086/nexus/content/repositories/2/</url>
+      <url>http://ec2-3-0-95-55.ap-southeast-1.compute.amazonaws.com:8086/nexus/content/repositories/2/</url>
    </repository>
 </distributionManagement>
