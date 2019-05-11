@@ -7,7 +7,7 @@
   <distributionManagement>
        <repository>
           <id>weekend</id>
-          <url>http://ec2-3-0-95-55.ap-southeast-1.compute.amazonaws.com:8086/nexus/content/repositories/2/</url>
+          <url>http://18.136.209.114:8086/nexus/content/repositories/2/</url>
        </repository>
   </distributionManagement>
 </project>
